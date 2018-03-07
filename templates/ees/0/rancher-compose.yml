@@ -1,0 +1,8 @@
+.catalog:
+  name: "EES"
+  version: v0.1-educaas
+  description: "ERP management powered by EES"
+  uuid: ees-0
+  questions:
+
+odoo:
