@@ -1,0 +1,11 @@
+ees:
+  image: ees:39
+  ports:
+    - "8069:8069"
+  links:
+    - db
+db:
+  image: postgres
+  environment:
+    - POSTGRES_USER=ees
+    - POSTGRES_PASSWORD=ees

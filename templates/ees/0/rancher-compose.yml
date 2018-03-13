@@ -1,8 +1,8 @@
 .catalog:
   name: "EES"
-  version: V10
-  description: "ERP management powered by EES"
-  uuid: ees-0
+  version: V39
+  description: "ERP management powered by Elitaco"
+  uuid: ees-39
   questions:
 
 ees:
